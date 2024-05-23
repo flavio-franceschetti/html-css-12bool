@@ -1,9 +1,25 @@
-/* Box blu */
-.blue-box {
+.exercise {
+  margin-bottom: 20px;
+}
+
+/* General box */
+.box {
+  color: #fff;
   text-align: center;
+  align-content: center;
+}
+
+/* blue box */
+.blue-box {
   background-color: rgb(79, 129, 255);
   height: 50px;
-  align-content: center;
-  color: #fff;
+  padding: 10px;
   border: 1px solid #fff;
+}
+
+/* green box */
+.green-box {
+  background-color: rgb(99, 231, 99);
+  padding: 5px;
+  border: 1px solid rgb(79, 129, 255);
 }
