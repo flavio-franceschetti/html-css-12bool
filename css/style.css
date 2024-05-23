@@ -1,0 +1,9 @@
+/* Box blu */
+.blue-box {
+  text-align: center;
+  background-color: rgb(79, 129, 255);
+  height: 50px;
+  align-content: center;
+  color: #fff;
+  border: 1px solid #fff;
+}
